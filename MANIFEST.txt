@@ -1,0 +1,39 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "antreaflowvisibility",
+  "signedByOrgName": "theia",
+  "rootUrls": [
+    "http://localhost:3000/"
+  ],
+  "plugin": "theia-grafana-http-table-plugin",
+  "version": "1.0.0",
+  "time": 1696266218605,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
+    "CHANGELOG.md": "ba613d6f914b27dce9ace4d8c0cb074273c9eb6c536d8e7ac24c5ce6ae941fd0",
+    "vendors-node_modules_canvg_lib_index_es_js.js": "7b73265676268f6cbdd41f4616d3fec57a8ad62a0e590e7132f8d9fafc9cecce",
+    "plugin.json": "c082f6131388b364fad94a0924b15f1aab139d24d67835e8abb92b5f90769002",
+    "README.md": "a295b38c566027e3d4af2d97211fc5967170707f98db4a3dd732245e6803e7fa",
+    "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
+    "vendors-node_modules_dompurify_dist_purify_js.js": "20e96eb2ddf763ad73b37d3c4e785e00feb66d0473c76b30038d282480aa2797",
+    "module.js": "8a8a3cb7a0089da27a6212394d6be2bfbcc9148eb250eaa7dc46a8912ea0e251",
+    "vendors-node_modules_html2canvas_dist_html2canvas_js.js": "be30ec8729de188523b8cd5f5739c793a02c4776604b46fbd594187521099a5d"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+wrcEARMKAAYFAmUa9+oAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5/puAgYy+pCEwsd4Pf92LvXOX7wXqDuN0bSH67pRpFxFDwQgBSJaOmhf
+Pfzw4eL9Mg27xx9ZrjMW5s/Ybv0qAw3bm6vAfAIIiaytdElb98fPv1pdv1+D
+Mr+q5RhdnEsfWO7/tKDz1c/gOCj9N6DZBfbqUnmfDLnB+kBI8GbzMkfNJOXd
+qUTvG4M=
+=MO2v
+-----END PGP SIGNATURE-----
