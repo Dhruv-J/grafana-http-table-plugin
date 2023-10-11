@@ -12,28 +12,25 @@ Hash: SHA512
   ],
   "plugin": "theia-grafana-http-table-plugin",
   "version": "1.0.0",
-  "time": 1696976028201,
+  "time": 1697066562511,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
     "CHANGELOG.md": "ba613d6f914b27dce9ace4d8c0cb074273c9eb6c536d8e7ac24c5ce6ae941fd0",
-    "vendors-node_modules_canvg_lib_index_es_js.js": "7b73265676268f6cbdd41f4616d3fec57a8ad62a0e590e7132f8d9fafc9cecce",
-    "plugin.json": "5b2af8485511440fe8f750c7586a30d4929293aa0600dd40f277c9bfe8c75d4f",
+    "plugin.json": "9a0389ed1779a187f422ad23d9ebbecd94ed04bbadc78545b26c6b8b177932c2",
     "README.md": "458e25766163cf1160d78229545f6355e699fd67ea602b5990a5e640015ed3b7",
     "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
-    "vendors-node_modules_dompurify_dist_purify_js.js": "20e96eb2ddf763ad73b37d3c4e785e00feb66d0473c76b30038d282480aa2797",
-    "module.js": "4d4bef2ffe2e4cf4c6241f544c69e83b168709fa94ddd1b6fa8c9f03ba207924",
-    "vendors-node_modules_html2canvas_dist_html2canvas_js.js": "be30ec8729de188523b8cd5f5739c793a02c4776604b46fbd594187521099a5d"
+    "module.js": "843a3907236f0a3944af83c53e003db4d8cfbcfe111c9a1a3ffad40af62ad19c"
   }
 }
 -----BEGIN PGP SIGNATURE-----
 Version: OpenPGP.js v4.10.10
 Comment: https://openpgpjs.org
 
-wrcEARMKAAYFAmUlzJwAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm5y8uAgY1TORe20te2hW0G/Q5HjQcKG5A32tyfzMBhoRFzmtzTsDqpEDy
-Z9IwODmeoA+SPQSNZZFtszzbcJIhSYx9kXl8NgIHUtRVpRPgeFDBCNO4siCy
-g980Ege7n94kGb6sXMpDxRmdCgHBSI0mduSOYpFmPNUJmggPPISh3BDRccuL
-4Qafwv0=
-=W08I
+wrcEARMKAAYFAmUnLkIAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5+pTAgjShck7FuvL04tpoCiyh8sKn7N5OMhmIf9z2dTJ5KRNxnlMgr1E
+rorG328iKnAp9R0RsgyHDxJJpo6dCxaWJNLwQwII5RwODgvd7fW98LV6q7ma
+djqjEs78P6A2a3dJreIjnVJ8PSDDLIL6Y4lnjqlMLnpTzTeVhs6zm0N/U3b/
+aEdLmlU=
+=yB3y
 -----END PGP SIGNATURE-----
